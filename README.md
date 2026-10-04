@@ -179,6 +179,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ## worker Dashboard
 <img width="956" height="436" alt="image" src="https://github.com/user-attachments/assets/58c92705-f6ff-4954-bd90-18dadbd4cb22" />
+<img width="957" height="439" alt="image" src="https://github.com/user-attachments/assets/17c742ca-a89b-4462-badb-e5071c53322c" />
 <img width="953" height="431" alt="image" src="https://github.com/user-attachments/assets/09ac6c29-d06e-43b8-adac-fed2ec49d908" />
 <img width="956" height="435" alt="image" src="https://github.com/user-attachments/assets/351ced3f-c141-42a4-adbc-1af15d211172" />
 <img width="959" height="426" alt="image" src="https://github.com/user-attachments/assets/26610c01-bc53-4ab2-bab9-182eef57e5ef" />
