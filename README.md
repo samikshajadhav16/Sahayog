@@ -177,19 +177,22 @@ CLOUDINARY_API_SECRET=your_api_secret
 <img width="1899" height="880" alt="image" src="https://github.com/user-attachments/assets/bc3ea59f-db2f-4c25-804b-db788afa29f5" />
 <img width="1913" height="892" alt="image" src="https://github.com/user-attachments/assets/32d691b6-eb50-4771-9b81-cbc8c1e749ee" />
 
-worker Dashboard
+## worker Dashboard
 <img width="956" height="436" alt="image" src="https://github.com/user-attachments/assets/58c92705-f6ff-4954-bd90-18dadbd4cb22" />
 <img width="953" height="431" alt="image" src="https://github.com/user-attachments/assets/09ac6c29-d06e-43b8-adac-fed2ec49d908" />
 <img width="956" height="435" alt="image" src="https://github.com/user-attachments/assets/351ced3f-c141-42a4-adbc-1af15d211172" />
 <img width="959" height="426" alt="image" src="https://github.com/user-attachments/assets/26610c01-bc53-4ab2-bab9-182eef57e5ef" />
 
-Team Lead Dashboard 
+--------------------------------------------------------------------------------------------------------------------------
+
+## Team Lead Dashboard 
 <img width="956" height="427" alt="image" src="https://github.com/user-attachments/assets/6bb48f22-9ee2-4f62-8dd7-f40b3ed25c14" />
 <img width="954" height="435" alt="image" src="https://github.com/user-attachments/assets/8411ed34-e71c-4b4a-94b2-d2d9676e879a" />
 <img width="959" height="423" alt="image" src="https://github.com/user-attachments/assets/f412883b-f151-4b24-9db7-684b89b2ff9e" />
 
+-----------------------------------------------------------------------------------------------------------------------------
 
-Admin Dashboard
+## Admin Dashboard
 <img width="951" height="439" alt="image" src="https://github.com/user-attachments/assets/0d1214ca-d0a4-4743-9f6e-bbe9f44c6e69" />
 <img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/ddab049b-9c7f-4498-aa95-d683a53694ff" />
 
